@@ -107,9 +107,4 @@ For questions or feedback, feel free to reach out:
 
 Check out my <a href="https://www.crio.do/learn/portfolio/govindnathsng/" target="_blank">Crio Portfolio</a> for more projects like this!
 
-yaml
 
-
----
-
-This README is structured to showcase each key feature and the technical skills involved in QEats. 

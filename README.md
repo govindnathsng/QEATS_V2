@@ -112,6 +112,4 @@ yaml
 
 ---
 
-This README is structured to showcase each key feature and the technical skills involved in QEats. Let me know if there’s anything specific you’d like to add!
-
-You said:
+This README is structured to showcase each key feature and the technical skills involved in QEats. 
